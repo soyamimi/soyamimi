@@ -2,7 +2,7 @@
 
 #### I'm a Data Scientist from Seoul, working in Paris.
 
-- 🔭 I’m currently working at Société Générale.
+- 🔭 I’m currently working in the banking industry.
 - ⚙️ I use daily: `.py`, `.sql`, `.ipynb`.
 - 🌱 I’m currently learning about deep learning for recommendation system.
 - 🤔 I’m interested in applying data science within the cultural industry.
